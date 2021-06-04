@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @div0510
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ , HTML , CSS
 - 💞️ I’m looking to collaborate on my projects which I will be developing in future
 - 📫 How to reach me You connect me on LinkedIn and Gmail using divyansh963@gmail.com
 
